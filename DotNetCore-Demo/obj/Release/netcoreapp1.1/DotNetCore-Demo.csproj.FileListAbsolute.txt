@@ -1,0 +1,9 @@
+c:\users\yasintha\documents\visual studio 2017\Projects\DotNetCore-Demo\DotNetCore-Demo\bin\Release\netcoreapp1.1\DotNetCore-Demo.deps.json
+c:\users\yasintha\documents\visual studio 2017\Projects\DotNetCore-Demo\DotNetCore-Demo\bin\Release\netcoreapp1.1\DotNetCore-Demo.runtimeconfig.json
+c:\users\yasintha\documents\visual studio 2017\Projects\DotNetCore-Demo\DotNetCore-Demo\bin\Release\netcoreapp1.1\DotNetCore-Demo.runtimeconfig.dev.json
+c:\users\yasintha\documents\visual studio 2017\Projects\DotNetCore-Demo\DotNetCore-Demo\bin\Release\netcoreapp1.1\DotNetCore-Demo.dll
+c:\users\yasintha\documents\visual studio 2017\Projects\DotNetCore-Demo\DotNetCore-Demo\bin\Release\netcoreapp1.1\DotNetCore-Demo.pdb
+c:\users\yasintha\documents\visual studio 2017\Projects\DotNetCore-Demo\DotNetCore-Demo\obj\Release\netcoreapp1.1\DotNetCore-Demo.csprojResolveAssemblyReference.cache
+c:\users\yasintha\documents\visual studio 2017\Projects\DotNetCore-Demo\DotNetCore-Demo\obj\Release\netcoreapp1.1\DotNetCore-Demo.AssemblyInfo.cs
+c:\users\yasintha\documents\visual studio 2017\Projects\DotNetCore-Demo\DotNetCore-Demo\obj\Release\netcoreapp1.1\DotNetCore-Demo.dll
+c:\users\yasintha\documents\visual studio 2017\Projects\DotNetCore-Demo\DotNetCore-Demo\obj\Release\netcoreapp1.1\DotNetCore-Demo.pdb
